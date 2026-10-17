@@ -1,0 +1,11 @@
+data/raw/*.csv
+outputs/
+__pycache__/
+*.pyc
+.env
+mlruns/
+mlflow/
+transformations/target/
+transformations/dbt_packages/
+transformations/logs/
+.pytest_cache/
